@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 11 12:34:43 2024
-
-@author: boruttrpin
 """
 import numpy as np
 from itertools import combinations, product
